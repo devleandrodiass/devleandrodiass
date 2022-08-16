@@ -24,6 +24,6 @@
 <img align="center" alt="hmtl5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 </div><br/>
-##Apaixonado por código, novas tecnologias e grandes desafios.
+Apaixonado por código, novas tecnologias e grandes desafios.
 
 
